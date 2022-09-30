@@ -6,3 +6,9 @@ n = int(input('Введите число: '))
 #     startNumber+=1
 for i in range(-n,n+1):
     print(i, end=" ")
+
+# print('введите число')
+
+# value = int(input())
+
+# print (list (range(-value, value+1))
